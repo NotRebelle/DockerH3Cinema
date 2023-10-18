@@ -39,11 +39,3 @@ L'application peut être déployée dans deux environnements : sur une **machine
 ### Architecture
 
 ![Vue d'ensemble](docs/images/overview.jpg)
-
-### Page d'Accueil
-
-![Page d'accueil du site Web](docs/images/website-home.jpg)
-
-### Liste des Utilisateurs
-
-![Page de liste des utilisateurs](docs/images/website-users.jpg)
