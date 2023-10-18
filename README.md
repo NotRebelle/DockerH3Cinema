@@ -1,4 +1,4 @@
-# Cinéma - Microservices en Go avec Docker, Kubernetes et MongoDB
+# Cinéma - Microservices en Go avec MongoDB, Docker et Kubernetes
 
 ## Aperçu
 
